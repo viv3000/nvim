@@ -23,6 +23,9 @@ require("lazy").setup({
 	{ 'onsails/lspkind-nvim' },
 	{ 'nvim-lua/diagnostic-nvim' },
 
+	-- emmet
+	{ 'pedro757/emmet' },
+
 	-- Autocomplit
 	{ 'neovim/nvim-lspconfig' },
 	{ 'hrsh7th/cmp-nvim-lsp' },
